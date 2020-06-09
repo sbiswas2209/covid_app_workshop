@@ -21,4 +21,4 @@ Some screenshots from the app:
 -> [Flags](https://www.countryflags.io/)
 -> [Live Map](https://www.trackcorona.live/map)
 
-**Star this repo if you loiked the applictaion. Thanks for your time, and see you in the workshop.**
+**Star this repo if you liked the applictaion. Thanks for your time, and see you in the workshop.**
